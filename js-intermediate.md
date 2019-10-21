@@ -5,14 +5,14 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. What are the HTTP verbs? Which CRUD action corresponds to each verb?
 
-  Your answer:
+  Your answer:get:read, post: create, put&patch:update, delete:delete
 
   Researched answer:
 
 
 2. Why would you use object destructuring?
 
-  Your answer:
+  Your answer: to prevent from repeating yourself or repeating the this.state function 
 
   Researched answer:
 
@@ -20,9 +20,9 @@ Answer the following questions. First, without external resources. Challenge you
 
 3. Why is testing important?
 
-  Your answer:
+  Your answer: its important because it allows you to find the small bugs and also shows you how the application is running 
 
-  Researched answer:
+  Researched answer:Testing can help you avoid costly mistakes and get the most out of your web development efforts
 
 
 4. What is the difference between a class and an object?
