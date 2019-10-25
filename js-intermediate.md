@@ -27,14 +27,14 @@ Answer the following questions. First, without external resources. Challenge you
 
 4. What is the difference between a class and an object?
 
-  Your answer:
+  Your answer: a class decribes and holds an object
 
-  Researched answer:
+  Researched answer:A class is a template for objects. A class defines object properties including a valid range of values, and a default value. A class also describes object behavior.
 
 
 5. What did you learn during the group project this week? Please include any additional feedback you may have.
 
-  Your answer:
+  Your answer: I learned more about react and got introduced to react native and how to make a mobile application
 
 
 
@@ -42,35 +42,39 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. How do you link a CSS file to your HTML page?
 
-  Your answer:
+  Your answer: css script tag in the head section
 
   Researched answer:
 
 
 2. What is the difference between a div and a span?
 
-  Your answer:
+  Your answer: span is inline and div is blockline
 
   Researched answer:
 
 
 3. What is a CSS class? When should you use an id instead of a class?
 
-  Your answer:
+  Your answer: class is used to give a specific section of code a specific name to distiguish it, an id is used to dsitinguish between multiple items with the same name or id
 
   Researched answer:
 
 
 4. Name 4 semantic HTML tags.
 
-  Your answer:
+  Your answer:<h1>-<h6>
+  <p>
+  <ul>
+  <li>
+  
 
   Researched answer:
 
 
 5. What are three options for creating responsive design?
 
-  Your answer:
+  Your answer: css, javascript, react
 
   Researched answer:
 
@@ -79,7 +83,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. What is front end development? Can you identify any tools/skills that are uniquely required of front end developers?
 
-  Your answer:
+  Your answer: front end development is specificly working with the visual and  what the user sees. its how it looks and how it responds with the click of buttons and links
 
   Researched answer:
 
@@ -88,7 +92,7 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
 
-  Researched answer:
+  Researched answer: blockscope is everything with in the {braces}
 
 
 3. How would you explain the idea of "inheritance" in object oriented programming?
